@@ -354,13 +354,13 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .css::before{
-    width: 60%;
+    width: 65%;
 }
 .skills-content .right .js::before{
-    width: 60%;
+    width: 50%;
 }
 .skills-content .right .android::before{
-    width: 60%;
+    width: 45%;
 }
 .skills-content .right .git::before{
     width: 65%;
