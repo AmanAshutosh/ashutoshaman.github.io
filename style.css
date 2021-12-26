@@ -362,8 +362,8 @@ section .title::after{
 .skills-content .right .android::before{
     width: 60%;
 }
-.skills-content .right .firebase::before{
-    width: 70%;
+.skills-content .right .git::before{
+    width: 60%;
 }
 /* teams section styling */
 .teams .title::after{
